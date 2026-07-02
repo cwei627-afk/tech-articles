@@ -1,4 +1,4 @@
-# 陈伟的技术文章合集
+# 朝闻道的技术文章合集
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/cwei627-afk/tech-articles)
 ![GitHub topics](https://img.shields.io/github/repo-size/cwei627-afk/tech-articles)
